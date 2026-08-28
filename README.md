@@ -11,4 +11,6 @@ This will produce a netcdf of PAR for the different environments described in th
 
 
 Stroeve JC, Veyssiere G, Nab C, Light B, Perovich D, Laliberté J, Campbell K, Landy J, Mallett R, Barrett A, Liston GE. Mapping potential timing of ice algal blooms from satellite. Geophysical Research Letters. 2024 Apr 28;51(8):e2023GL106486.
+
+
 Heorton, Harold DBS, Julienne C. Stroeve, and Gaëlle Veyssière. "Future under sea ice light availability and algal bloom timing from CMIP6 model simulations." Frontiers in Marine Science 12 (2025): 1642506.
