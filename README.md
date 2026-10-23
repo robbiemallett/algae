@@ -4,7 +4,7 @@ This repository contains the necessary code to calculate bottom-ice PAR intensit
 
 To reproduce our analysis you must run notebooks 1-10 in /code/ locally.
 
-You will then probably need a server to run Python files in /server_code/: 1, 2, 3 &  `make_ssrd_netcdf.py'.
+You will then probably need a server to run Python files in /server/: 1, 2, 3 &  `make_ssrd_netcdf.py'.
 
 This will produce a netcdf of PAR for the different environments described in the manuscript.
 
